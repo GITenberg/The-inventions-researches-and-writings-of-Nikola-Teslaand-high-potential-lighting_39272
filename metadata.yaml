@@ -1,0 +1,30 @@
+_repo: The-inventions-researches-and-writings-of-Nikola-Teslaand-high-potential-lighting_39272
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Martin, Thomas Commerford
+    alias: Martin, T. C. (Thomas Commerford)
+    birthdate: 1856
+    deathdate: 1924
+    gutenberg_agent_id: '429'
+    url: http://www.gutenberg.org/2009/agents/429
+description: ''
+gutenberg_issued: '2012-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39272'
+  lccn: 08011989
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Electrical engineering'
+- !lcsh 'Electric currents, Alternating'
+- !lcc 'TK'
+title: "The inventions, researches and writings of Nikola Tesla\r\nWith special reference\
+  \ to his work in polyphase currents and high potential lighting"
+url: http://www.gutenberg.org/ebooks/39272
