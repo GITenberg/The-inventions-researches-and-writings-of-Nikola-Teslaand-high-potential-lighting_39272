@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '429'
     url: http://www.gutenberg.org/2009/agents/429
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39272#The-inventions-researches-and-writings-of-Nikola-Teslaand-high-potential-lighting
 gutenberg_issued: '2012-03-26'
 gutenberg_type: Text
 identifiers:
